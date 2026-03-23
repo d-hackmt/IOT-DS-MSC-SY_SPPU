@@ -11,4 +11,16 @@ AI IS COMINGGGGGGGGGGG..................................................
 
 UPLOAD assignments here : 
 
+
+
+
 ASSIGNMENT 1 : https://drive.google.com/drive/folders/1tMrhjNQlMz_YqUHo_Shv9o3gv0d-wxwf?usp=sharing
+
+
+
+PROJECTS  :
+
+THunderstrom forecasting : https://drive.google.com/drive/folders/1PqdetSGWrgiCA6JSbiiQXqd9ns6dRAjv?usp=sharing
+
+
+Solar panel defect detecton : https://drive.google.com/drive/folders/1zYdh2-eu6yUfUA4IYokQsziallVQXCGr?usp=sharing
