@@ -28,3 +28,5 @@ Solar panel defect detecton : https://drive.google.com/drive/folders/1zYdh2-eu6y
 SOLAR CI CD CODE : https://github.com/Aanand2204/solarpanel/tree/main 
 
 SOLAR PROJECT TEST HERE : https://solar-clean-detection-zeg7mvgxgjzglwgjteqscm.streamlit.app/
+
+SOLAR PROJECT CICD VIDEOS : https://drive.google.com/drive/folders/1papK4CpIW4pYjJ4fd8OCOPZ1I3txB0VI?usp=sharing
