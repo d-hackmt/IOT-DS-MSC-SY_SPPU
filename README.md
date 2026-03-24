@@ -24,3 +24,5 @@ THunderstrom forecasting : https://drive.google.com/drive/folders/1PqdetSGWrgiCA
 
 
 Solar panel defect detecton : https://drive.google.com/drive/folders/1zYdh2-eu6yUfUA4IYokQsziallVQXCGr?usp=sharing
+
+SOLAR PROJECT TEST HERE : https://solar-clean-detection-zeg7mvgxgjzglwgjteqscm.streamlit.app/
